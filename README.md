@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reem-Alatrash
-- 👀 I’m interested in NLP, ML pipelines, psycholinguistics, dialect variation and much more.
-- 🌱 I’m currently learning more about DevOps and cloud computing (AWS, GCP, Azure).
+- 👀 I’m interested in Python, Computational Linguistics, especially NLP, and MLOps.
+- 🌱 I’m currently learning more about Foundation models, and prompt engineering and RAG for LLMs.
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me--->
 
