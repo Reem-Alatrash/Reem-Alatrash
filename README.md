@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reem-Alatrash
-- 👀 I’m interested in Python, Computational Linguistics, especially NLP, and MLOps.
-- 🌱 I’m currently learning more about Foundation models, layered prompt engineering, and multi-agentic RAG for LLMs.
+- 👀 I’m interested in Python, Computational Linguistics, especially NLP, and coding in general.
+- 🌱 I’m currently learning more about UTCP vs MCP, A2A and other AI topics.
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me--->
 
